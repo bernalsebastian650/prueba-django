@@ -1,0 +1,5 @@
+# Archivos de configuración de sistema
+*.pyc
+__pycache__/
+venv/
+.idea/
